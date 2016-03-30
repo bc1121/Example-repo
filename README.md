@@ -1,2 +1,5 @@
-# Example-repo
-This is the example rep for today's training
+Example-repo
+=====
+
+### Step 1
+This is another step we will initiate.
